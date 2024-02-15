@@ -7,6 +7,9 @@
 
 날짜|문제|완료|
 --|--|--|
-24.02.06|[ZOAC 4](https://www.acmicpc.net/problem/23971)|
-24.02.06|[삼각형과 세 변](https://www.acmicpc.net/problem/5073)|
-24.02.06|[벌집](https://www.acmicpc.net/problem/2292)|
+24.02.15|[ZOAC 4](https://www.acmicpc.net/problem/23971)|⭕
+24.02.15|[삼각형과 세 변](https://www.acmicpc.net/problem/5073)|⭕
+24.02.15|[벌집](https://www.acmicpc.net/problem/2292)|⭕
+24.02.16|[단어 공부](https://www.acmicpc.net/problem/1157)
+24.02.16|[집합](https://www.acmicpc.net/problem/11723)
+24.02.16|[돌 게임](https://www.acmicpc.net/problem/9655)
