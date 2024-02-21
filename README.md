@@ -5,18 +5,21 @@
 - ❌, ❓ 는 그 주 주말에 다시 풀기 => 완료 후엔 ❗로 작성
 - 다음 날 문제는 전 날 정해서 README에 작성해놓기
 
-날짜|문제|완료|등급
---|--|--|--|
-24.02.15|[ZOAC 4](https://www.acmicpc.net/problem/23971)|⭕|![bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)
-24.02.15|[삼각형과 세 변](https://www.acmicpc.net/problem/5073)|⭕|![bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)
-24.02.15|[벌집](https://www.acmicpc.net/problem/2292)|⭕|![bonze2](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg)
-24.02.16|[단어 공부](https://www.acmicpc.net/problem/1157)|⭕|![bronze1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)
-24.02.16|[집합](https://www.acmicpc.net/problem/11723)|⭕|![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
-24.02.16|[돌 게임](https://www.acmicpc.net/problem/9655)|⭕|![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
-24.02.19|[줄 세우기](https://www.acmicpc.net/problem/10431)|⭕|![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
-24.02.20|[올림픽](https://www.acmicpc.net/problem/8979)|⭕|![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
-24.02.20|[덩치](https://www.acmicpc.net/problem/7568)|⭕|![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
-24.02.20|[비밀번호 발음하기](https://www.acmicpc.net/problem/4659)|⭕|![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
-24.02.21|[임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
-24.02.21|[쿠키와 신체 측정](https://www.acmicpc.net/problem/20125)
-24.02.21|[등수 구하기](https://www.acmicpc.net/problem/1205)
+날짜| 문제                                                     | 완료 |등급
+--|--------------------------------------------------------|-|--|
+24.02.15| [ZOAC 4](https://www.acmicpc.net/problem/23971)        | ⭕ |![bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)
+24.02.15| [삼각형과 세 변](https://www.acmicpc.net/problem/5073)       | ⭕ |![bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)
+24.02.15| [벌집](https://www.acmicpc.net/problem/2292)             | ⭕ |![bonze2](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg)
+24.02.16| [단어 공부](https://www.acmicpc.net/problem/1157)          | ⭕ |![bronze1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)
+24.02.16| [집합](https://www.acmicpc.net/problem/11723)            | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.16| [돌 게임](https://www.acmicpc.net/problem/9655)           | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.19| [줄 세우기](https://www.acmicpc.net/problem/10431)         | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.20| [올림픽](https://www.acmicpc.net/problem/8979)            | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.20| [덩치](https://www.acmicpc.net/problem/7568)             | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.20| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)      | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.21| [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757) | ⭕ |![silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)
+24.02.21| [쿠키와 신체 측정](https://www.acmicpc.net/problem/20125)     |⭕|![silver4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)
+24.02.21| [등수 구하기](https://www.acmicpc.net/problem/1205)         |⭕|![silver4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)
+24.02.22| [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                                          |
+24.02.22| [크로스 컨트리](https://www.acmicpc.net/problem/9017)                                            |
+24.02.22| [어두운 굴다리](https://www.acmicpc.net/problem/17266)                                            |
