@@ -1,2 +1,0 @@
-.문제집들
-link:https://www.acmicpc.net/workbook/view/8708[문제집1]
