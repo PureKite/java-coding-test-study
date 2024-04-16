@@ -14,9 +14,9 @@
 | [소수 찾기](https://www.acmicpc.net/problem/1978)            | ⭕  | ![Bronze2](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg)  |
 | [소수 구하기](https://www.acmicpc.net/problem/1929)           |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)  |
 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588)         | ⭕  | ![Silver1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) |
-| [소인수분해](https://www.acmicpc.net/problem/11653)           |    |                                                               |
-| [팩토리얼](https://www.acmicpc.net/problem/10872)            |    | ️                                                             |
-| [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)       |    |                                                               |
+| [소인수분해](https://www.acmicpc.net/problem/11653)           |  ⭕  | ![Bronze5](https://d2gd6pc034wcta.cloudfront.net/tier/1.svg)  |
+| [팩토리얼](https://www.acmicpc.net/problem/10872)            |  ⭕  | ️         ![Bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)                                        |
+| [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)       |   ⭕  |      ![Silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)                                                          |
 | [조합 0의 개수](https://www.acmicpc.net/problem/2004)         |    |                                                               |
 | [곱셈](https://www.acmicpc.net/problem/1629)               |    |                                                               |
 | [행렬 덧셈](https://www.acmicpc.net/problem/2738)            |    |                                                               |
