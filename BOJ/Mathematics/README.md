@@ -19,9 +19,9 @@
 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)       | ⭕  | ![Silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)           |
 | [조합 0의 개수](https://www.acmicpc.net/problem/2004)         | ❌  | ![Silver2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)           |
 | [곱셈](https://www.acmicpc.net/problem/1629)               | ❌  | ![Silver1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)          |
-| [행렬 덧셈](https://www.acmicpc.net/problem/2738)            |    |                                                                        |
-| [행렬 곱셈](https://www.acmicpc.net/problem/2740)            |    |                                                                        |
-| [행렬 제곱](https://www.acmicpc.net/problem/10830)           |    |                                                                        |
+| [행렬 덧셈](https://www.acmicpc.net/problem/2738)            | ⭕  | ![Bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)           |
+| [행렬 곱셈](https://www.acmicpc.net/problem/2740)            | ⭕  | ![Silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)           |
+| [행렬 제곱](https://www.acmicpc.net/problem/10830)           |  ❌  | ![Gold4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)                                                             |
 | [피보나치 수](https://www.acmicpc.net/problem/2747)           |    |                                                                        |
 | [피보나치 수 2](https://www.acmicpc.net/problem/2748)         |    |                                                                        |
 | [피보나치 수 3](https://www.acmicpc.net/problem/2749)         |    |                                                                        |
