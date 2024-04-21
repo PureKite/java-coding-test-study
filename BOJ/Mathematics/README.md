@@ -21,10 +21,10 @@
 | [곱셈](https://www.acmicpc.net/problem/1629)               | ❌  | ![Silver1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)          |
 | [행렬 덧셈](https://www.acmicpc.net/problem/2738)            | ⭕  | ![Bronze3](https://d2gd6pc034wcta.cloudfront.net/tier/3.svg)           |
 | [행렬 곱셈](https://www.acmicpc.net/problem/2740)            | ⭕  | ![Silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)           |
-| [행렬 제곱](https://www.acmicpc.net/problem/10830)           |  ❌  | ![Gold4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)                                                             |
-| [피보나치 수](https://www.acmicpc.net/problem/2747)           |    |                                                                        |
-| [피보나치 수 2](https://www.acmicpc.net/problem/2748)         |    |                                                                        |
-| [피보나치 수 3](https://www.acmicpc.net/problem/2749)         |    |                                                                        |
+| [행렬 제곱](https://www.acmicpc.net/problem/10830)           |  ❌  | ![Gold4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)            |
+| [피보나치 수](https://www.acmicpc.net/problem/2747)           | ⭕   | ![Bronze2](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg)           |
+| [피보나치 수 2](https://www.acmicpc.net/problem/2748)         |  ⭕  | ![Bronze1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)           |
+| [피보나치 수 3](https://www.acmicpc.net/problem/2749)         | ⭕   | ![Gold2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)                                                             |
 | [피보나치 수 6](https://www.acmicpc.net/problem/11444)        |    |                                                                        |
 | [피보나치 수 4](https://www.acmicpc.net/problem/10826)        |    |                                                                        |
 | [피보나치 수 5](https://www.acmicpc.net/problem/10870)        |    |                                                                        |
