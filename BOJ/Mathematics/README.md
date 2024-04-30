@@ -29,11 +29,11 @@
 | [피보나치 수 4](https://www.acmicpc.net/problem/10826)        | ⭕  | ![Silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)           |
 | [피보나치 수 5](https://www.acmicpc.net/problem/10870)        | ⭕  | ![Bronze2](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg)           |
 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788)       | ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)           |
-| [피사노 주기](https://www.acmicpc.net/problem/9471)           |  ⭕  |     ![Silver4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)                                                                   |
-| [피보나치 수의 합](https://www.acmicpc.net/problem/2086)        |    |                                                                        |
-| [피보나치 수의 제곱의 합](https://www.acmicpc.net/problem/11440)   |    |                                                                        |
-| [홀수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11442)  |    |                                                                        |
-| [짝수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11443)  |    |                                                                        |
+| [피사노 주기](https://www.acmicpc.net/problem/9471)           | ⭕  | ![Silver4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)           |
+| [피보나치 수의 합](https://www.acmicpc.net/problem/2086)        | ⭕  | ![Gold1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)            |
+| [피보나치 수의 제곱의 합](https://www.acmicpc.net/problem/11440)   | ⭕  | ![Platinum5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)        |
+| [홀수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11442)  | ⭕  | ![Gold2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)            |
+| [짝수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11443)  |  ⭕  |                                          ![Gold2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)                              |
 | [피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)   |    |                                                                        |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050)         |    |                                                                        |
 | [이항 계수 2](https://www.acmicpc.net/problem/11051)         |    |                                                                        |

@@ -4,4 +4,4 @@
 
 | 분류     |
 |--------|
-| [수학]() |
+| [수학](https://github.com/PureKite/java-coding-test-study/tree/main/BOJ/Mathematics) |
