@@ -33,11 +33,11 @@
 | [피보나치 수의 합](https://www.acmicpc.net/problem/2086)        | ⭕  | ![Gold1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)            |
 | [피보나치 수의 제곱의 합](https://www.acmicpc.net/problem/11440)   | ⭕  | ![Platinum5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)        |
 | [홀수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11442)  | ⭕  | ![Gold2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)            |
-| [짝수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11443)  |  ⭕  |                                          ![Gold2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)                              |
-| [피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)   |    |                                                                        |
-| [이항 계수 1](https://www.acmicpc.net/problem/11050)         |    |                                                                        |
-| [이항 계수 2](https://www.acmicpc.net/problem/11051)         |    |                                                                        |
-| [이항 계수 4](https://www.acmicpc.net/problem/11402)         |    |                                                                        |
+| [짝수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11443)  | ⭕  | ![Gold2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)            |
+| [피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)   | ⭕  | ![Platinum5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)        |
+| [이항 계수 1](https://www.acmicpc.net/problem/11050)         | ⭕  | ![Bronze1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)           |
+| [이항 계수 2](https://www.acmicpc.net/problem/11051)         | ⭕  | ![Silver2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)           |
+| [이항 계수 4](https://www.acmicpc.net/problem/11402)         |  ❌  |                                                                        |
 | [이항 계수 5](https://www.acmicpc.net/problem/11439)         |    |                                                                        |
 | [괄호](https://www.acmicpc.net/problem/10422)              |    |                                                                        |
 | [GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)   |    |                                                                        |
