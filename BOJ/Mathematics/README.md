@@ -37,8 +37,8 @@
 | [피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)   | ⭕  | ![Platinum5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)        |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050)         | ⭕  | ![Bronze1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)           |
 | [이항 계수 2](https://www.acmicpc.net/problem/11051)         | ⭕  | ![Silver2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)           |
-| [이항 계수 4](https://www.acmicpc.net/problem/11402)         |  ❌  |                                                                        |
-| [이항 계수 5](https://www.acmicpc.net/problem/11439)         |    |                                                                        |
+| [이항 계수 4](https://www.acmicpc.net/problem/11402)         |  ❗  | ![Platinum4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)                                                         |
+| [이항 계수 5](https://www.acmicpc.net/problem/11439)         |  ❌  |                                                                        |
 | [괄호](https://www.acmicpc.net/problem/10422)              |    |                                                                        |
 | [GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)   |    |                                                                        |
 | [해의 개수](https://www.acmicpc.net/problem/11661)           |    |                                                                        |
