@@ -39,7 +39,7 @@
 | [이항 계수 2](https://www.acmicpc.net/problem/11051)         | ⭕  | ![Silver2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)           |
 | [이항 계수 4](https://www.acmicpc.net/problem/11402)         |  ❗  | ![Platinum4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)                                                         |
 | [이항 계수 5](https://www.acmicpc.net/problem/11439)         |  ❌  |                                                                        |
-| [괄호](https://www.acmicpc.net/problem/10422)              |    |                                                                        |
+| [괄호](https://www.acmicpc.net/problem/10422)              |  ❌  |   ![Gold4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)                                                                     |
 | [GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)   |    |                                                                        |
 | [해의 개수](https://www.acmicpc.net/problem/11661)           |    |                                                                        |
 | [이항 계수 3](https://www.acmicpc.net/problem/11401)         |    |                                                                        |
