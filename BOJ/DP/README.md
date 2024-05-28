@@ -1,7 +1,7 @@
 | 문제                                                                | 완료 | 등급                                                            |
 |-------------------------------------------------------------------|----|---------------------------------------------------------------|
 | [다리 놓기](https://www.acmicpc.net/problem/1010)                     | ⭕   | ![Silver5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) |
-| [설탕 배달](https://www.acmicpc.net/problem/2839)                     |    |  |
+| [설탕 배달](https://www.acmicpc.net/problem/2839)                     |  ⭕  | ![Silver4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) |
 | [Four Squares](https://www.acmicpc.net/problem/17626)             |    |  |
 | [1로 만들기](https://www.acmicpc.net/problem/1463)                    |    |  |
 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)               |    |  |
