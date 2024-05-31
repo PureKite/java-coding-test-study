@@ -4,7 +4,7 @@
 | [설탕 배달](https://www.acmicpc.net/problem/2839)                     |  ⭕  | ![Silver4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) |
 | [Four Squares](https://www.acmicpc.net/problem/17626)             |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)  |
 | [1로 만들기](https://www.acmicpc.net/problem/1463)                    |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)  |
-| [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)               |    |  |
+| [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)               |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) |
 | [2xn 타일링](https://www.acmicpc.net/problem/11726)                  |    |  |
 | [계단 오르기](https://www.acmicpc.net/problem/2579)                    |    |  |
 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)                |    |  |
