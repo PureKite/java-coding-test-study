@@ -6,7 +6,7 @@
 | [1로 만들기](https://www.acmicpc.net/problem/1463)                    |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)  |
 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)               |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) |
 | [2xn 타일링](https://www.acmicpc.net/problem/11726)                  |  ⭕  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) |
-| [계단 오르기](https://www.acmicpc.net/problem/2579)                    |    |  |
+| [계단 오르기](https://www.acmicpc.net/problem/2579)                    |  ❗  | ![Silver3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) |
 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)                |    |  |
 | [조합](https://www.acmicpc.net/problem/2407)                        |    |  |
 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)          |    |  |
